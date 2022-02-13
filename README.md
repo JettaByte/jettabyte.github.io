@@ -1,2 +1,0 @@
-# jettabyte.github.io
-Blog
